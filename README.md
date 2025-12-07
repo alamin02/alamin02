@@ -1,42 +1,24 @@
-# Hi 👋, I'm Al Amin 
+# 💫 About Me:
+🔭 I'm currently working on A MERN Stack project and preparing for upcoming hackathons & CTF competitions and Bug Hunting.<br><br>🌱 I'm currently learning Computer Science and Engineering at East West University, Bangladesh<br><br>👯 I'm looking to collaborate on Open-source projects, especially in web development or security-related tools.<br><br>🤝 I'm looking for help with Understanding scalable system design and real-world architecture patterns.<br><br>💬 Ask me about **problem-solving, C , C++ ,Java ,Python and Web exploit ,Cryptography **<br><br>📫 How to reach me alamin20771@gmail.com
 
-### A passionate Programmer and CTF Player
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin02&label=Profile views&color=0e75b6&style=flat" alt="alamin02" /> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prince.alamin.1884) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/al.ameen02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamin123) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pe3ngu1n) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/al_amin0048) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alamin20771@gmail.com) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamin02" alt="alamin02" /></a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alamin02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alamin02&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/al_amin0048" target="blank"><img src="https://img.shields.io/twitter/follow/alamin0048?logo=twitter&style=for-the-badge" alt="al_amin0048" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamin02&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I'm currently working on **A MERN Stack project and preparing for upcoming hackathons & CTF competitions and Bug Hunting.**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alamin02&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-- 🌱 I'm currently learning **Computer Science and Engineering at East West University, Bangladesh**
+---
+[![](https://visitcount.itsvg.in/api?id=alamin02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 👯 I'm looking to collaborate on **Open-source projects, especially in web development or security-related tools.**
-
-- 🤝 I'm looking for help with **Understanding scalable system design and real-world architecture patterns.**
-
-- 💬 Ask me about **problem-solving, C , C++ ,Java ,Python and Web exploit ,Cryptography **
-
-- 📫 How to reach me **alamin20771@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/alamin02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="alamin02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alamin123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alamin123" height="30" width="40" /></a>
-<a href="https://fb.com/prince.alamin.1884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince.alamin.1884" height="30" width="40" /></a>
-<a href="https://instagram.com/al.ameen02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="al.ameen02" height="30" width="40" /></a>
-<a href="https://twitter.com/alamin0048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alamin0048" height="30" width="40" /></a>
-<a href="https://medium.com/pe3ngu1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pe3ngu1n" height="30" width="40" /></a>
-<a href="https://hackerrank.com/alamin20771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alamin20771" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/al.ameen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="al.ameen" height="30" width="40" /></a>
-<a href="https://leetcode.com/akatshuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akatshuki" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin02&show_icons=true&locale=en&layout=compact" alt="alamin02" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alamin02&show_icons=true&locale=en" alt="alamin02" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
