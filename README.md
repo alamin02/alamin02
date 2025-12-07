@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamin02" alt="alamin02" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/al_amin0048" target="blank"><img src="https://img.shields.io/twitter/follow/alamin0048?logo=twitter&style=for-the-badge" alt="alamin0048" /></a> </p>
+<p align="left"> <a href="https://twitter.com/al_amin0048" target="blank"><img src="https://img.shields.io/twitter/follow/alamin0048?logo=twitter&style=for-the-badge" alt="al_amin0048" /></a> </p>
 
 - 🔭 I'm currently working on **A MERN Stack project and preparing for upcoming hackathons & CTF competitions and Bug Hunting.**
 
